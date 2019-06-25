@@ -1,28 +1,8 @@
 {
   "posts": [
-    {
-      "email": "ss",
-      "senha": "",
-      "nome": "",
-      "id": 2
-    },
-    {
-      "id": 4,
-      "nome": "manuel",
-      "senha": "123",
-      "sucesso": "sucesso",
-      "erro": "erro",
-      "token": {
-        "token": "123456789"
-      }
-    },
-    {
-      "id": 5,
-      "vc_contrato": "",
-      "vc_fase": "",
-      "sucesso": "sucesso",
-      "erro": "erro"
-    },
+   
+    
+   
     {
       "id": 8,
       "it_documento": 1234548,
